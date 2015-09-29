@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 顯無邊佛土功德經
+#+DATE: 2015-09-28 22:56:03.559467
+#+PROPERTY: JUAN 0
