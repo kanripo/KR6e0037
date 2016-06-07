@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:03.320387
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:42
 #+TITLE: 顯無邊佛土功德經
 #+PROPERTY: CBETA_ID T10n0289
 #+PROPERTY: ID KR6e0037
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 289
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0037_T_000-0591c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0037_T_001-0591c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.289[Nos.278(26),279(31),290]¶
-
- 《顯無邊佛土功德經》¶
+No. 289 [Nos. 278(26), 279(31), 290]¶
+《顯無邊佛土功德經》¶
 ¶
 大唐三藏法師玄奘譯¶
 
