@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:04.191010
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:42
 #+TITLE: 顯無邊佛土功德經
 #+PROPERTY: CBETA_ID T10n0289
 #+PROPERTY: ID KR6e0037
